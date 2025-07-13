@@ -1,5 +1,7 @@
 # firstgit
 
+clea
 This is my First Git hub file repository.
 <br>
-Author - Shiny
+Author - Mr. Shiny
+Cofounder - Mr. Anuj
