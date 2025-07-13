@@ -1,4 +1,5 @@
 # firstgit
-This is my First Git hub file repository. 
+
+This is my First Git hub file repository.
 <br>
-Author  - Anuj Verma
+Author - Shiny
